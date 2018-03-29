@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width:360px)
+{
+	.frank{
+		display:none;
+		
+	}
+	
+	.map{
+	   width:320px !important;	
+		
+		}
+}
+@media screen and (max-width:1220px)
+{
+	
+	
+#dissappear{
+		
+	display:none  !important;	
+	}	
+}

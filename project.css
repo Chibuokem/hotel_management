@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+.po{
+position :relative;	
+}
+.frank{
+width:200px;
+height : 200px;
+background-color: 	rgba(255,255,255,0.5);	
+	
+ position: absolute;
+    top: 2em;
+    left: 1em;
+	z-index: 900;
+	
+	}
+
+
+.white{
+color:white;	
+}
+
+.underline{
+color:#660000;	
+}
